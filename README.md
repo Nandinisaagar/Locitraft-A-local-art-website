@@ -8,7 +8,7 @@ Having a love of art is something most people can relate to. There are definitel
                 visual artists create and appreciate the work it takes to make a truly magnificent piece of artwork. 
                 The harder part of being an art lover is finding ways to support artists in your local community. Depending on your level of 
                 interest in owning artwork for your own private collection you may not be aware of the ways you can support your local art community. Sometimes it can feel like buying a painting is the only 
-                way and that’s not always something everyone feels is accessible to them. It is a Fully Responsive website.
+                way and that’s not always something everyone feels is accessible to them. Hence I've made this Fully Responsive website.
 
 ### ⭐  Tech Stack Used :
                                    1. HTML
